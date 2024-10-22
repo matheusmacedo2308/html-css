@@ -1,0 +1,40 @@
+* { margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+
+h1{
+text-align: center;
+color: aliceblue;
+}
+.flex12{
+    display: flex;
+justify-content: center;
+justify-items: center;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.curso{
+   display: flex;
+   justify-content: flex-end;
+   align-items: flex-end;
+   left: 50%;
+   top: 60%;
+
+}
+.print{
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+
+style{
+    .curso{
+        display: flex;
+        justify-content: center;
+    }
+}
